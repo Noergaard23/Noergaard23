@@ -41,6 +41,4 @@ Student at Aalborg University studying interactiondesign (IxD), with an ambition
 
 <a href="http://www.github.com/Noergaard23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noergaard23&stroke=6366f1&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/Noergaard23"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Noergaard23&bg_color=1c1917&color=6366f1&line=6366f1&point=6366f1&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Noergaard23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/ username=Noergaard23&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
